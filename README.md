@@ -1,19 +1,22 @@
 
 # Data Scientist
 
+## Profile 
+A results-driven and highly skilled professional with a proven track record in an information environment, I am a knowledgeable Data Analyst with a strong background in data analysis and engineering, backed by an MSc in Applied Artificial Intelligence and Data Analytics, and certification in Google Data Analytics. Proficient in a wide range of technical tools including Excel, Python, SQL, Power BI, Tableau, and Azure. I demonstrate a high level of expertise in designing and implementing effective data engineering solutions, driven by a deep understanding of applied AI and data analytics. Committed to driving innovation and efficiency in data processing, storage, and analysis opportunities.
+
 ### Education 
 - Applied Artificial Intelligence and Data Analytics, MSc
 - Chemical/Petro-Chemical Engineering, BSc
 
 ### Technical Skills 
-- #### Languages: - Python, - R-Studio, - SQL, - JavaScript
-- #### DevOps: - AWS services, - GitHub actions, - Azure services
-- #### Data Analytics/ Visualization: - Excel, - SAS, - Power BI, - Tableau, - STATA, - SPSS
-- #### Scripting: - Bash, - YAML
-- #### Version Control: - Git
-- ####	Engineering Control System: - SCADA, - MATLAB, - HYSYS, - SAP
-- ####	Microsoft Suit Applications: - Word, - Microsoft Team, - Microsoft Project, - PowerPoint
-- ####	Artificial Intelligence: - Machine Learning/Deep Learning 
+- ##### Languages: - Python, - R-Studio, - SQL, - JavaScript
+- ##### DevOps: - AWS services, - GitHub actions, - Azure services
+- ##### Data Analytics/ Visualization: - Excel, - SAS, - Power BI, - Tableau, - STATA, - SPSS
+- ##### Scripting: - Bash, - YAML
+- ##### Version Control: - Git
+- #####	Engineering Control System: - SCADA, - MATLAB, - HYSYS, - SAP
+- #####	Microsoft Suit Applications: - Word, - Microsoft Team, - Microsoft Project, - PowerPoint
+- #####	Artificial Intelligence: - Machine Learning/Deep Learning 
 
 ### Project
 - Design of predicting model for Acute Liver Failure using Machine Learing
