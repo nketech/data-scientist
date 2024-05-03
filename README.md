@@ -2,8 +2,8 @@
 # Data Scientist
 
 ### Education 
-Applied Artificial Intelligence and Data Analytics, MSc
-Chemical/Petro-Chemical Engineering, BSc
+- Applied Artificial Intelligence and Data Analytics, MSc
+- Chemical/Petro-Chemical Engineering, BSc
 
 ### Work Experince
 Buisness Intelligence and Data Analyst @ RBH Hotels York
