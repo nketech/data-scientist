@@ -9,14 +9,14 @@ A results-driven and highly skilled professional with a proven track record in a
 - Chemical/Petro-Chemical Engineering, BSc
 
 ### Technical Skills 
-- ##### Languages: - Python, - R-Studio, - SQL, - JavaScript
-- ##### DevOps: - AWS services, - GitHub actions, - Azure services
-- ##### Data Analytics/ Visualization: - Excel, - SAS, - Power BI, - Tableau, - STATA, - SPSS
-- ##### Scripting: - Bash, - YAML
-- ##### Version Control: - Git
-- #####	Engineering Control System: - SCADA, - MATLAB, - HYSYS, - SAP
-- #####	Microsoft Suit Applications: - Word, - Microsoft Team, - Microsoft Project, - PowerPoint
-- #####	Artificial Intelligence: - Machine Learning/Deep Learning 
+- Languages: - Python, - R-Studio, - SQL, - JavaScript
+- DevOps: - AWS services, - GitHub actions, - Azure services
+- Data Analytics/ Visualization: - Excel, - SAS, - Power BI, - Tableau, - STATA, - SPSS
+- Scripting: - Bash, - YAML
+- Version Control: - Git
+- Engineering Control System: - SCADA, - MATLAB, - HYSYS, - SAP
+- Microsoft Suit Applications: - Word, - Microsoft Team, - Microsoft Project, - PowerPoint
+- Artificial Intelligence: - Machine Learning/Deep Learning 
 
 ### Project
 - Design of predicting model for Acute Liver Failure using Machine Learing
